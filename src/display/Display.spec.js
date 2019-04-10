@@ -20,7 +20,7 @@ describe('Gate Functions', () => {
         getByText('Opened');
         getByText('Unlocked');
     })
-
+    
     
 
     it('closes the gate', () => {
